@@ -1,0 +1,33 @@
+
+#root {
+  text-align: center;
+}
+
+label {
+  display: block;
+  font-size: 24px;
+}
+input {
+  margin-right: 4px;
+  background-color: rgb(213, 214, 214, 0.3);
+  width: 260px;
+  height: 24px;
+}
+
+.form-container {
+  box-shadow: 2px 2px 4px rgb(197, 197, 197);
+  width: 30%;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.btn {
+  background-color:rgb(109, 56, 243);
+  color: rgb(245, 242, 248);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
